@@ -1,0 +1,4 @@
+manun 49 90
+appon 23 126
+sadik 35 233
+jamir 34 273

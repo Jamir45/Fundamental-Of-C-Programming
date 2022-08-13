@@ -1,0 +1,11 @@
+10
+manun 49 90
+jamir 34 80
+jamir 34 68
+sadik 35 77
+appon 23 66
+jamir 34 70
+sadik 35 80
+appon 23 60
+jamir 34 55
+sadik 35 76
